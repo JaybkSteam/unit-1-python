@@ -38,6 +38,6 @@ else:
 
 person = input('enter person name:') 
 
-print ("Hello my name is Jaylin. What is your name? " + " well hello Jaylin my Name is j" + person)
+print ("Hello my name is Jaylin. What is your name? " + " well hello Jaylin my Name is " + person)
 
 #exercise 8
