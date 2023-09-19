@@ -18,7 +18,7 @@ Age = (16)
 
 print ( Height * Age) 
 #exercise 4 : display "im going to break " in the console 
-print ("Im going to break")
+print ("Im going to break") 
 
 #exercise 5 create a list of strings called "fav_food"
 Favfood = {" baked macaroni and cheese", "Chicken", "rice", "pasta"}
@@ -40,4 +40,13 @@ person = input('enter person name:')
 
 print ("Hello my name is Jaylin. What is your name? " + " well hello Jaylin my Name is " + person)
 
-#exercise 8
+#exercise 8 = create a loop that will display each item 
+# from fav_food on a seperate line in the console  
+
+for i in Favfood: 
+    print(i)
+
+
+#exercise 9: create a while loop that will never run
+
+    
