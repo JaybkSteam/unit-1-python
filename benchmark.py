@@ -39,3 +39,5 @@ else:
 person = input('enter person name:') 
 
 print ("Hello my name is Jaylin. What is your name? " + " well hello Jaylin my Name is j" + person)
+
+#exercise 8
