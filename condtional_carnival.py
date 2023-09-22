@@ -37,6 +37,7 @@ else:
    largest = num3
 
 print("The largest number is", largest)
+# For this task i did another if else statemnt and used math symbols to help determine what the largest number is and allowed the user to put in their own number
 
 
 
@@ -54,6 +55,8 @@ elif (Year % 4 ==0) and (Year % 100 != 0):
 else:
     print("{0} is not a leap year".format(Year))
 
+    #for this i allowed the user to put in a year and used is elf stament along with math symobols to help determine with the year they put is a leap or not
+
 
 
 #TASK 5: Vowel or Consonant:
@@ -69,4 +72,6 @@ def vowelOrConsonant(x):
 
 vowelOrConsonant('v')
 vowelOrConsonant('f')
+
+#for this i used if else to help determine if the two letters in the code are a vowel or con stamt by using equal symobol in python.
     
