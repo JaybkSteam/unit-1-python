@@ -67,6 +67,6 @@ def vowelOrConsonant(x):
         print("Consonant")
   
 
-vowelOrConsonant('c')
-vowelOrConsonant('e')
+vowelOrConsonant('v')
+vowelOrConsonant('f')
     
