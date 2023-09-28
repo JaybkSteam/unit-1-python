@@ -82,7 +82,8 @@ print('zoneb')
 
 if area == Zonea:
     print ("your price is 5$ per kilogram")
-    elif area == zoneb
+elif area == zoneb:
+    print(" your price is 7$ per kilogram")
 
 #Exercise 6:
 #Determine the type of a triangle based on side lengths.
