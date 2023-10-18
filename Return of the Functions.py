@@ -6,6 +6,8 @@ def square(n):
 number = int(input('Please enter a number: '))
 number2 = square(number)
 print(number2)
+assert square
+
 #Task 2: Calculate the Area of a Rectangle:
 #Write a function that takes the length and width of a rectangle and returns its area.
 def area_of_Rectangle(length, width):
@@ -17,6 +19,11 @@ width = float(input('Please Enter the Width of a Triangle: '))
 area = area_of_Rectangle(length, width)
 
 print("The Area of a Rectangle using", length, "and", width, " = ", area)
+x = 8
+y = 7
+def area_of_Rectangle(x, y):
+   return x + y
+assert area_of_Rectangle(x, y) == 15
 
 #Task 3: Convert Temperature from Celsius to Fahrenheit:
 #Write a function that takes a temperature in Celsius and returns 
